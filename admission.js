@@ -22,3 +22,4 @@ function passId(args , imgID) {
     reader.readAsDataURL(file);
   });
 }
+
